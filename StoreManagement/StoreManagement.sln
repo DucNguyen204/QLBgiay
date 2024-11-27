@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManagement", "StoreManagement\StoreManagement.csproj", "{FCCCAAB1-5CCD-4593-A255-D67178787960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Debug|x64.ActiveCfg = Debug|x64
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Debug|x64.Build.0 = Debug|x64
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Release|x64.ActiveCfg = Release|x64
+		{FCCCAAB1-5CCD-4593-A255-D67178787960}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CABE4271-7202-4DC6-8238-92FE8BA8B19D}
+	EndGlobalSection
+EndGlobal
